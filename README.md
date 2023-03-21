@@ -70,6 +70,6 @@ Projeto desenvolvido Front-End com framework React.js, Javascript, CSS3, Bootstr
 
                                       Projeto Realizado com Sucesso !!
  <p align="center">                                                         
-![stack Overflow](http://lmsotfy.com/so.png)                                                 
+  <a>![stack Overflow](http://lmsotfy.com/so.png)</a>                                                
 </p>
 
