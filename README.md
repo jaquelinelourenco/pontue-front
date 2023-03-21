@@ -70,6 +70,6 @@ Projeto desenvolvido Front-End com framework React.js, Javascript, CSS3, Bootstr
 
                                       Projeto Realizado com Sucesso !!
  <p align="center">                                                         
-  ![img]([http://i.imgur.com/yourfilename.png](https://app.pontue.com.br/static/logo-full-white.png))                                                
+  ![30091641838086](https://user-images.githubusercontent.com/83045484/126088476-b240144d-7ca3-4627-933a-b48313dc9ac9.jpg)                                                
 </p>
 
